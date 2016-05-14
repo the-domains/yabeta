@@ -4,8 +4,15 @@
         <description><![CDATA[Site Teste]]></description>
         <link>https://thegrid.ai/yabeta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 21:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 21:08:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yabeta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>PILOTO</p>]]></description>
+            <link>https://thegrid.ai/yabeta/piloto/index.html</link>
+            <guid isPermaLink="false">62778f19-96cd-4805-ab2f-15a81fc191ea</guid>
+            <pubDate>Sat, 14 May 2016 21:08:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Lenda do Herói é um novo jogo brasileiro que mistura RPG e música]]></title>
             <description><![CDATA[<article><h1>A Lenda do Herói é um novo jogo brasileiro que mistura RPG e música</h1><p>A Lenda do Herói é um novo game para computador de produção brasileira que promete revolucionar em alguns aspectos. Apesar dos gráficos simples, a ideia é misturar aventura e RPG com elementos musicais.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a471bcc5c5b235e38eca88fad8ee72057b96cb53.jpg"></article>]]></description>
