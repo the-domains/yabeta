@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[yabeta]]></title>
         <description><![CDATA[yabeta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yabeta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 20:47:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 20:51:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yabeta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Unicórnios & Dinossauros</p>]]></description>
-            <link>undefinedunicornios-and-dinossauros/index.html</link>
+            <link>https://thegrid.ai/yabeta/unicornios-and-dinossauros/index.html</link>
             <guid isPermaLink="false">f7053c3d-33f6-4b4c-84ac-10e36fe747d6</guid>
-            <pubDate>Sat, 14 May 2016 20:47:26 GMT</pubDate>
+            <pubDate>Sat, 14 May 2016 20:51:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
