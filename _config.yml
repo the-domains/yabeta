@@ -2,6 +2,7 @@ name: yabeta
 favicon: null
 layout_spectrum: 0.57677
 typography_spectrum: 0.33035
+title: Site Teste
 cta:
   domain: null
   bucket: null
